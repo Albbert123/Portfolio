@@ -2,7 +2,7 @@
 
 Welcome to my project portfolio. This repository brings together a selection of software and data-oriented projects I have built during my studies and personal learning path. The projects below reflect my interest in full-stack development, applied problem solving, and building useful products with real-world value.
 
-## Featured Projects
+## Featured projects
 
 ---
 
@@ -93,7 +93,7 @@ homePharmacy is a small personal project created to organize the medicines I had
 
 ---
 
-## Additional Projects and Early Work
+## Additional projects and early work
 
 I also keep a separate repository with smaller projects, early software development exercises, and academic work completed during my learning journey, including introductory applications and earlier technical explorations.
 
